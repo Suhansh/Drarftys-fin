@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641776889411",
+    "project_id": "acoustic-tiktok",
+    "storage_bucket": "acoustic-tiktok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641776889411:android:305e989e502fb5153feef6",
+        "android_client_info": {
+          "package_name": "app.saasmonks.acoustic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641776889411-6ll4rpfverflg8ec4v5gkebcjutghc24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.saasmonks.acoustic",
+            "certificate_hash": "a0ec6ea08b2d2a92577fe15690dc23117e08304b"
+          }
+        },
+        {
+          "client_id": "641776889411-iq2l8l43cae1s43ab4jqeop3vmrpfm4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNamGskYTIIkbeEu3mFCIaRu7biOk3I1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641776889411-iq2l8l43cae1s43ab4jqeop3vmrpfm4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
